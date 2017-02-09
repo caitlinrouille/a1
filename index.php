@@ -20,7 +20,6 @@
   <blockquote>
     <?php
     $quote = Rand (1,3);
-    /* Swap out the quote using the switch PHP function and Rand */
     switch ($quote)
     {
     case 1:
