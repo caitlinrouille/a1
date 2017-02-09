@@ -1,0 +1,54 @@
+/* Caitlin Rouille Assignment 1 CSS file*/
+* {
+    box-sizing: border-box;
+}
+
+body {
+  font-family:arial, sans-serif;
+  font-size:13px;
+  color:#333;
+  line-height: 16px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:orange;
+  font-family: Tahoma, Verdana, Segoe, sans-serif;
+  font-weight:bold;
+}
+
+h1 {
+  font-size:24px;
+}
+
+h2 {
+  font-size:20px;
+}
+
+h3 {
+  font-size:16px;
+}
+
+section {
+  margin:15px;
+  border-bottom:10px solid #eee;
+}
+
+img {
+  display: block;
+  margin: auto;
+  border-radius:10px;
+}
+
+/* Utility CLasses */
+
+.text-center {
+  text-align:center;
+}
+
+.mg-btm-15 {
+  margin-bottom:15px;
+}
+
+.pd-btm-10 {
+  padding-bottom:10px;
+}
