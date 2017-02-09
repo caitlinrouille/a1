@@ -4,7 +4,6 @@
 <meta charset="UTF-8">
 <title>Caitlin Rouille - Assignment 1</title>
 <link rel="stylesheet" href="css/styles.css">
-
 </head>
 
 <body>
